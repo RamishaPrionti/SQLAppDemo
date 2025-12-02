@@ -6,7 +6,7 @@ from sqlalchemy import create_engine, text
 
 # ---------- CONFIG ----------
 DB_URL = "postgresql://rp_mini_project2_db_user:U19DegnNWLaUCDSx03KNO4TB6JQYDefE@dpg-d4ni44qdbo4c73fieseg-a.ohio-postgres.render.com/rp_mini_project2_db"
-APP_PASSWORD = "preo123"  # change this to whatever you want
+APP_PASSWORD = "preo123"  
 
 # ---------- PAGE SETUP ----------
 st.set_page_config(page_title="Mini Project 2 Demo", layout="wide")
